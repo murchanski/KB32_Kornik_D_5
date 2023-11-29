@@ -1,0 +1,4 @@
+# ninja log v5
+1	165	7218370584298339	CMakeFiles/First_task.dir/main.c.obj	d2a60c90d60094cf
+6	414	7218370586808369	CMakeFiles/First_task.dir/command_executor.c.obj	d172d2c6ff65770e
+415	693	7218370589556068	First_task.exe	bdceeb29fc63f62c
